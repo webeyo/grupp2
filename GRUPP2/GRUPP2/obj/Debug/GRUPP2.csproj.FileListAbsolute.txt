@@ -1,1 +1,9 @@
 C:\Users\Jacob\Desktop\GRUPP2\grupp2\GRUPP2\GRUPP2\bin\Debug\GRUPP2.exe.config
+C:\c#\grupp2\GRUPP2\GRUPP2\bin\Debug\GRUPP2.exe.config
+C:\c#\grupp2\GRUPP2\GRUPP2\bin\Debug\GRUPP2.exe
+C:\c#\grupp2\GRUPP2\GRUPP2\bin\Debug\GRUPP2.pdb
+C:\c#\grupp2\GRUPP2\GRUPP2\obj\Debug\GRUPP2.csprojResolveAssemblyReference.cache
+C:\c#\grupp2\GRUPP2\GRUPP2\obj\Debug\GRUPP2.Properties.Resources.resources
+C:\c#\grupp2\GRUPP2\GRUPP2\obj\Debug\GRUPP2.csproj.GenerateResource.Cache
+C:\c#\grupp2\GRUPP2\GRUPP2\obj\Debug\GRUPP2.exe
+C:\c#\grupp2\GRUPP2\GRUPP2\obj\Debug\GRUPP2.pdb
