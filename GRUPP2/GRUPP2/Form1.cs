@@ -12,7 +12,7 @@ namespace GRUPP2
 {
     public partial class Form1 : Form
     {
-        public Form()
+        public Form555()
         {
             InitializeComponent();
         }
